@@ -48,8 +48,12 @@ Refleksjonsspørsmål og hints finnes i filen.
 
 ## Hvordan kjøre prosjektet
 
-1. **Hent prosjektet fra GitHub**  
-   Åpne terminal og naviger dit du ønsker å ha oppgaven, deretter kjør:
+**Hent prosjektet fra GitHub**
+
+1. Åpne terminal
+2. Naviger dit du ønsker å ha oppgaven
+3. Installer dependencies
+4. Kjør
 
 ```bash
 git clone https://github.com/akselkirk/react-introduksjons-oppgaver.git
